@@ -53,4 +53,3 @@ npm start
 
 ---
 
-Tu veux que je le mette dans un `README.md` pour toi ou tu préfères copier-coller ?
